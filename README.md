@@ -10,7 +10,7 @@ I try my best to explain what I'm trying to do with my projects, because as some
 
 I'm currently learning RegEx, SQL and Python because I'll be using them for my job and I find them useful for my personal life, or s\*\*tposts for that matter.
 
-You can reach me through Discord at olg#6328 or through Twitter at [@olg6328](https://twitter.com/olg6328)!
+You can reach me through Discord at olg6328 or through Twitter at [@olg6328](https://twitter.com/olg6328)!
 
 My full bio is at [olg6328.carrd.co](https://olg6328.carrd.co) (a short read)
 
